@@ -1,6 +1,6 @@
 # English preview
 
-Link -> [gymapp.gastongraciani.me](gymapp.gastongraciani.me)
+Link -> [http://gymapp.gastongraciani.me/](http://gymapp.gastongraciani.me/)
 
 
 ## Project Description
